@@ -1,5 +1,3 @@
-# rockpaperscissors
-
 # Module 03 Mini-Project: Rock, Paper, Scissors
 
 In this activity, you will work with a group to build a game using only JavaScript.
